@@ -48,7 +48,18 @@ nav ul li
   font-variation-settings:
     "wdth" 100;
 }
-
+details summary
+{
+   
+    font-size: 1.5rem;
+    color:blue;
+    margin-bottom: 5px;
+}
+details li 
+{
+    color:crimson;
+    font-size: 1.4rem;
+}
 .my-details 
 {
     display: flex;justify-content: space-between;
